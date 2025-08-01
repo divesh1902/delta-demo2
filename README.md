@@ -1,3 +1,9 @@
 # delta-demo2
 this is a demo for git &amp; github class.
 welcome to apna college 
+
+# teacher 
+Shradha ma'am
+
+# student 
+Divesh Jadhav
